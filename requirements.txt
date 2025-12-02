@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+pdfplumber
+graphviz
+biopython
+transformers
+torchss
